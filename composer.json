@@ -1,8 +1,8 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "miladhamzelou/dompdf-persian",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
-    "homepage": "https://github.com/dompdf/dompdf",
+    "homepage": "https://github.com/miladhamzelou/dompdf-persian",
     "license": "LGPL-2.1",
     "authors": [
         {
@@ -16,6 +16,10 @@
         {
             "name": "Gabriel Bull",
             "email": "me@gabrielbull.com"
+        },
+        {
+            "name": "Milad Hamzelou",
+            "email": "miladhamzelou@gmail.com"
         }
     ],
     "autoload": {
